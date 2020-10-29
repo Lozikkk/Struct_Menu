@@ -1,0 +1,7 @@
+﻿  Menu.cpp
+C:\Users\ПК\source\repos\Strukturu_Menu\Menu.cpp(390,12): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\ПК\source\repos\Strukturu_Menu\Menu.cpp(461,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ПК\source\repos\Strukturu_Menu\Menu.cpp(461,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ПК\source\repos\Strukturu_Menu\Menu.cpp(555,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ПК\source\repos\Strukturu_Menu\Menu.cpp(557,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Strukturu_Menu.vcxproj -> C:\Users\ПК\source\repos\Strukturu_Menu\Debug\Strukturu_Menu.exe
